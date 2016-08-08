@@ -4,7 +4,7 @@
 
 Ayrıca oluşacak Türkçe altyazılar sayesinde **İşitme Engelli** arkadaşlar içinde izlenebilir bir kaynak haline gelmiş olacaktır.
 
-## Altyazılar
+## Altyazılar (Subtitles)
  - [GitHub](srt/001-f_BAHdRyh2w.srt) - [YouTube](http://www.youtube.com/timedtext_video?v=f_BAHdRyh2w&ref=share) 001 Doğukan Güven Nomak - Fragman (Artık İstanbul'dayım)
  - [GitHub](srt/002-Nj4TgqFHif4.srt) - [YouTube](http://www.youtube.com/timedtext_video?v=Nj4TgqFHif4&ref=share) 002 Flexible Grid System'i Seviyorum
  - [GitHub](srt/003-zD4IE4nX8Ts.srt) - [YouTube](http://www.youtube.com/timedtext_video?v=zD4IE4nX8Ts&ref=share) 003 Open Source'u Seviyorum
