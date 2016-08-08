@@ -2,7 +2,7 @@
 
 [Burak Yiğit Kaya](https://twitter.com/madbyk) sponsorluğunda tüm videoların altyazılarını İngilizce'ye çeviriyoruz. İsterseniz sizde destek olabilirsiniz. İngilizce'ye çevirme işlemi dışında Türkçe altyazıları çıkartma aşamasında da desteğe ihtiyacımız var.
 
-Ayrıca oluşacak Türkçe altyazılar sayesinde **İşitme Engelli** arkadaşlar içinde izlenebilir bir kaynak haline gelmiş olacaktır.
+Ayrıca oluşacak altyazılar sayesinde **İşitme Engelli** arkadaşlar içinde izlenebilir bir kaynak haline gelmiş olacaktır.
 
 ### Durum (Status)
 - ~~Altyazılar Hazır (Subtitles Ready)~~
