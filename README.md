@@ -4,6 +4,10 @@
 
 Ayrıca oluşacak altyazılar sayesinde kanalımız **işitme engelli** arkadaşlar için de izlenebilir bir kaynak haline gelmiş olacaktır.
 
+(We are translating all our subtitles into English, with [Burak Yiğit Kaya](https://twitter.com/madbyk) leading. Any contributions from you, the audience are welcome. We also need to create the original subtitles themselves from the videos so any help in that front is also appreciated.
+
+Keep in mind that these subtitles would make our channel accessible to people with hearing disabilities.)
+
 ### Durum (Status)
 - ~~Altyazılar Hazır (Subtitles Ready)~~
 - **İngilizce Altyazılar Bekleniyor (English Subtitles Awaiting)**
