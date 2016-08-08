@@ -2,3 +2,83 @@
 
 (TR) Teşekkürler Atölye15
 (EN) Thanks Atölye15
+
+1
+00:00:00,000 --> 00:00:02,620
+(TR) Atölye15'i çok uzun zamandır takip ediyorum
+(EN)
+
+2
+00:00:02,620 --> 00:00:05,500
+(TR) İzmir'de yaptıkları işler gerçekten çok güzel
+(EN)
+
+3
+00:00:07,080 --> 00:00:11,900
+(TR) aslında bu anlattığım Flexible Grid System sunumunu Atölye15'tede yapmıştım
+(EN)
+
+4
+00:00:12,300 --> 00:00:17,300
+(TR) onlarda çok sıcak karşıladılar böyle bir şey var açık kaynak kodlu bir projem var
+(EN)
+
+5
+00:00:17,840 --> 00:00:23,320
+(TR) ve firma olarak İzmir'de bir firmaya mail atıyorum ve ben bunu göstermek istiyorum sizlere diyorum
+(EN)
+
+6
+00:00:23,760 --> 00:00:27,320
+(TR) ve onlarda çok sıcak şekilde karşılayıp beni ofislerine davet ediyor
+(EN)
+
+7
+00:00:27,740 --> 00:00:30,300
+(TR) ve ben ofiste sunumu yapabiliyorum
+(EN)
+
+8
+00:00:30,620 --> 00:00:36,580
+(TR) bu derece sıcak ve yeniliklere geliştirilen yeni teknolojilere açık bir firma
+(EN)
+
+9
+00:00:36,860 --> 00:00:44,600
+(TR) açıkçası ben İzmir'de böyle bir firma olduğunu bilmek ve bize bu şekilde bir imkan sağlamak bizi dinlemek
+(EN)
+
+10
+00:00:44,600 --> 00:00:55,000
+(TR) kendi içinden ekipten firmada çalışmamama rağmen bizi ekipten firmadan bir parçaymış gibi dinleyip ilgilenmesi bizi ekstra mutlu ediyor
+(EN)
+
+11
+00:00:55,000 --> 00:01:04,240
+(TR) onun dışında bu WTK zaten İzmir'de müthiş oldu ve çok büyük bir eksik gerçekten ve çok büyük bir eksiğide doldurdu
+(EN)
+
+12
+00:01:04,680 --> 00:01:10,340
+(TR) hem biz burda farklı insanlarla iletişimde kalabiliyoruz iletişime geçebiliyoruz
+(EN)
+
+13
+00:01:11,120 --> 00:01:13,120
+(TR) hemde yeniliklerden haberdar olacağız
+(EN)
+
+14
+00:01:13,120 --> 00:01:15,120
+(TR) yani ilk sunum şuan gayet güzel geçti
+(EN)
+
+15
+00:01:15,380 --> 00:01:18,780
+(TR) bundan sonrakilerde öyle olacaktır umarım
+(EN)
+
+16
+00:01:19,440 --> 00:01:22,800
+(TR) bunun içinde Atölye15'e çok ekstra teşekkür ediyoruz
+(EN)
