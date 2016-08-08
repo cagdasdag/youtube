@@ -7,7 +7,7 @@ Ayrıca oluşacak Türkçe altyazılar sayesinde **İşitme Engelli** arkadaşla
 ### Durum (Status)
 - ~~Altyazılar Hazır (Subtitles Ready)~~
 - **İngilizce Altyazılar Bekleniyor (English Subtitles Awaiting)**
-- _Türkçe Altyazılar Bekleniyor (English Subtitles Awaiting)_
+- _Türkçe Altyazılar Bekleniyor (Turkish Subtitles Awaiting)_
 
 ## Altyazılar (Subtitles)
  - [GitHub](srt/001-f_BAHdRyh2w.srt) - [YouTube](http://www.youtube.com/timedtext_video?v=f_BAHdRyh2w&ref=share) ~~001 Doğukan Güven Nomak - Fragman (Artık İstanbul'dayım)~~
