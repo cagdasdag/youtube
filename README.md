@@ -2,6 +2,8 @@
 
 [Burak Yiğit Kaya](https://twitter.com/madbyk) sponsorluğunda tüm videoların altyazılarını İngilizce'ye çeviriyoruz. İsterseniz sizde destek olabilirsiniz. İngilizce'ye çevirme işlemi dışında Türkçe altyazıları çıkartma aşamasında da desteğe ihtiyacımız var.
 
+Ayrıca oluşacak Türkçe altyazılar **İşitme Engelli** arkadaşlar içinde izlenebilir bir kaynak haline gelmiş olacaktır.
+
 ## Altyazılar
  - [GitHub](srt/001-f_BAHdRyh2w.srt) - [YouTube](http://www.youtube.com/timedtext_video?v=f_BAHdRyh2w&ref=share) 001 Doğukan Güven Nomak - Fragman (Artık İstanbul'dayım)
  - [GitHub](srt/002-Nj4TgqFHif4.srt) - [YouTube](http://www.youtube.com/timedtext_video?v=Nj4TgqFHif4&ref=share) 002 Flexible Grid System'i Seviyorum
