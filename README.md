@@ -2,7 +2,7 @@
 
 [Burak Yiğit Kaya](https://twitter.com/madbyk) sponsorluğunda tüm videoların altyazılarını İngilizce'ye çeviriyoruz. İsterseniz sizde destek olabilirsiniz. İngilizce'ye çevirme işlemi dışında Türkçe altyazıları çıkartma aşamasında da desteğe ihtiyacımız var.
 
-Ayrıca oluşacak Türkçe altyazılar **İşitme Engelli** arkadaşlar içinde izlenebilir bir kaynak haline gelmiş olacaktır.
+Ayrıca oluşacak Türkçe altyazılar sayesinde **İşitme Engelli** arkadaşlar içinde izlenebilir bir kaynak haline gelmiş olacaktır.
 
 ## Altyazılar
  - [GitHub](srt/001-f_BAHdRyh2w.srt) - [YouTube](http://www.youtube.com/timedtext_video?v=f_BAHdRyh2w&ref=share) 001 Doğukan Güven Nomak - Fragman (Artık İstanbul'dayım)
