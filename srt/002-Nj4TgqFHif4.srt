@@ -5,12 +5,12 @@
 
 1
 00:00:00,300 --> 00:00:05,060
-(TR) Adım Doğukan İzmir'de Front End Developer olarak Litum'da çalışıyorum
+(TR) Adım Doğukan İzmir'de Front End Developer olarak Litum'da çalışıyorum.
 (EN)
 
 2
 00:00:05,440 --> 00:00:10,520
-(TR) kişisel olarak geliştirdiğim bir projem var Flexible Grid System adında
+(TR) Kişisel olarak geliştirdiğim bir projem var Flexible Grid System adında
 (EN)
 
 3
@@ -20,45 +20,45 @@
 
 4
 00:00:16,560 --> 00:00:24,900
-(TR) bu şey aslında Bootstrap'in sadece bir Grid System hali ve bunu kullanarak aslında insanlar çok hızlı şekilde web sitesi yapabiliyor
+(TR) bu şey aslında Bootstrap'in sadece bir Grid System hali ve bunu kullanarak aslında insanlar çok hızlı şekilde web sitesi yapabiliyor.
 (EN)
 
 5
 00:00:25,340 --> 00:00:35,380
-(TR) bu yaptıkları web sitesini hem mobil de hem tablet de hemde normal bilgisayarlarda ki tasarımı çok hızlı şekilde yönetebiliyorlar
+(TR) Bu yaptıkları web sitesini hem mobil de hem tablet de hem de normal bilgisayarlarda ki tasarımı çok hızlı şekilde yönetebiliyorlar.
 (EN)
 
 6
 00:00:37,360 --> 00:00:42,040
-(TR) bunun dışında ekstra daha geliştirdiğim bir framework daha var
+(TR) Bunun dışında ekstra daha geliştirdiğim bir framework daha var.
 (EN)
 
 7
 00:00:42,040 --> 00:00:46,920
-(TR) bu da yine daha hızlı tasarım yapmayı sağlayabilen bir framework olacak
+(TR) Bu da yine daha hızlı tasarım yapmayı sağlayabilen bir framework olacak.
 (EN)
 
 8
 00:00:48,620 --> 00:00:51,840
-(TR) bunun dışında Flexible Grid System'i aktif olarak geliştirmeye devam ediyorum
+(TR) Bunun dışında Flexible Grid System'i aktif olarak geliştirmeye devam ediyorum.
 (EN)
 
 9
 00:00:51,840 --> 00:00:56,560
-(TR) yaklaşık 1000 star'a ulaşmış durumda GitHub üzerinde
+(TR) Yaklaşık 1000 Star'a ulaşmış durumda GitHub üzerinde
 (EN)
 
 10
 00:00:57,360 --> 00:01:01,180
-(TR) bunu mutlaka incelemeniz gerekiyor mutlaka inceleyin
+(TR) bunu mutlaka incelemeniz gerekiyor mutlaka inceleyin.
 (EN)
 
 11
 00:01:01,440 --> 00:01:09,400
-(TR) işinizi kolaylaştıracak ve birşeyler yaparken size çok daha fazla zaman hız ve esneklik kazandıracak
+(TR) İşinizi kolaylaştıracak ve birşeyler yaparken size çok daha fazla zaman hız ve esneklik kazandıracak.
 (EN)
 
 12
 00:01:10,660 --> 00:01:16,760
-(TR) flexible.gs adresinden inceleyebilirsiniz takip edebilirsiniz teşekkürler
+(TR) flexible.gs adresinden inceleyebilirsiniz takip edebilirsiniz teşekkürler.
 (EN)

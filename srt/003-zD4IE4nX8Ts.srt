@@ -4,186 +4,176 @@
 (EN) I Love Open Source
 
 1
-00:00:00,540 --> 00:00:03,520
-(TR) bu çalışmalarınızın daha önce anlattığınız bu çalışmalarınızın
+00:00:00,540 --> 00:00:09,880
+(TR) Bu ve daha önce anlattığınız çalışmalarınızda şehir olarak mesela İstanbul'da olsanız farkı olur muydu?
 (EN)
 
 2
-00:00:04,400 --> 00:00:06,400
-(TR) şehir olarak mesela İstanbul olarak
+00:00:10,100 --> 00:00:11,660
+(TR) Hiç farkı yok.
 (EN)
 
 3
-00:00:08,020 --> 00:00:10,020
-(TR) İstanbul'da olsanız
+00:00:12,400 --> 00:00:15,880
+(TR) Size kazanım olarak farklılık yaratır mıydı?
 (EN)
 
 4
-00:00:10,100 --> 00:00:11,660
-(TR) hiç farkı yok
+00:00:15,880 --> 00:00:16,880
+(TR) Hiçbir farklılık yaratmaz.
 (EN)
 
 5
-00:00:12,400 --> 00:00:15,880
-(TR) size kazanım olarak farklılık yaratırmıydı
+00:00:16,880 --> 00:00:23,800
+(TR) Çünkü hani İstanbul'dan da insanlara bunu söylediğimizde ya da İzmir'den de söylediğimizde güzel olumlu destek alınıyor.
 (EN)
 
 6
-00:00:15,880 --> 00:00:16,880
-(TR) hiçbir farklılık yaratmaz
+00:00:23,800 --> 00:00:26,460
+(TR) Birde zaten proje açık kaynak kodlu olduğu için;
 (EN)
 
 7
-00:00:16,880 --> 00:00:23,800
-(TR) çünkü hani İstanbul'dan da insanlara bunu söylediğimizde yada İzmir'den de söylediğimizde güzel olumlu destek alınıyor
+00:00:28,360 --> 00:00:31,000
+(TR) Rusya'dan da giren oluyor, Amerika'dan da giren oluyor,
 (EN)
 
 8
-00:00:23,800 --> 00:00:26,460
-(TR) birde zaten proje açık kaynak kodlu olduğu için
+00:00:31,000 --> 00:00:35,140
+(TR) bütün Avrupa'dan ve bütün Dünya'dan insanlar girip buna bakıyorlar.
 (EN)
 
 9
-00:00:28,360 --> 00:00:31,000
-(TR) Rusya'dan da giren oluyor Amerika'dan da giren oluyor
+00:00:35,220 --> 00:00:41,520
+(TR) Ve dediğim gibi açık kaynak kodlu olduğu için bu insanlarda bu ekibin bir parçası olabiliyor.
 (EN)
 
 10
-00:00:31,000 --> 00:00:35,140
-(TR) bütün Avrupa'dan ve bütün Dünya'dan insanlar girip buna bakıyorlar
+00:00:41,540 --> 00:00:47,620
+(TR) Buna dahil olabiliyorlar, benim yazdığım kodun üstüne gelip onlar da geliştirme yapıp katkıda bulunabiliyorlar.
 (EN)
 
 11
-00:00:35,220 --> 00:00:41,520
-(TR) ve dediğim gibi açık kaynak kodlu olduğu için bu insanlarda bu ekibin bir parçası olabiliyor
+00:00:48,000 --> 00:00:51,880
+(TR) Herkes de bulunabilir. Destek olmak isteyen, yardımcı olmak isteyen herkes.
 (EN)
 
 12
-00:00:41,540 --> 00:00:47,620
-(TR) buna dahil olabiliyorlar benim yazdığım kodun üzerine gelip onlarda geliştirme yapıp katkıda bulunabiliyorlar
+00:00:52,320 --> 00:00:57,660
+(TR) Alıp projeyi bir inceleyip bir kısmından kendi eksik gördüğü kısmı bize iletebilir.
 (EN)
 
 13
-00:00:48,000 --> 00:00:51,880
-(TR) herkes de bulunabilir  destek olmak isteyen yardımcı olmak isteyen herkes
+00:00:57,900 --> 00:01:01,720
+(TR) Biz onu kapatabiliriz ya da kendisi eksik görüp onun üzerine yazabilir.
 (EN)
 
 14
-00:00:52,320 --> 00:00:57,660
-(TR) alıp projeyi bir inceleyip bir kısmından kendi eksik gördüğü kısmı bize iletebilir
+00:01:01,720 --> 00:01:05,140
+(TR) Ve o şekilde kapatabilir. Proje açık kaynak kodlu olduğu için
 (EN)
 
 15
-00:00:57,900 --> 00:01:01,720
-(TR) biz onu kapatabiliriz yada kendisi eksik görüp onun üzerine yazabilir
+00:01:06,520 --> 00:01:12,340
+(TR) ülke şehir ya da dünya hiç farketmeden çok rahatlıkla destek olabilirler.
 (EN)
 
 16
-00:01:01,720 --> 00:01:05,140
-(TR) ve o şekilde kapatabilir proje açık kaynak kodlu olduğu için
+00:01:12,860 --> 00:01:18,160
+(TR) Peki bu projenizi patent olarak düşünüyor musunuz?
 (EN)
 
 17
-00:01:06,520 --> 00:01:12,340
-(TR) ülke şehir yada dünya hiç farketmeden çok rahatlıkla destek olabilirler
+00:01:18,480 --> 00:01:23,940
+(TR) Yok aslında sadece bir logosu var, çok hoşuma giden, şöyle göstereyim.
 (EN)
 
 18
-00:01:12,860 --> 00:01:18,160
-(TR) peki bu projenizi  patent olarak düşünüyormusunuz
+00:01:24,160 --> 00:01:28,560
+(TR) Bunu da doğum günümde, önceki çalıştığım iş yerinde, bir arkadaşım yapmıştı Cenk diye.
 (EN)
 
 19
-00:01:18,480 --> 00:01:23,940
-(TR) yok aslında sadece bir logo su var çok hoşuma giden şöyle göstereyim
+00:01:31,180 --> 00:01:36,500
+(TR) Böyle bir logosu var sadece. Alabilirsem belki bu logonun patentini alırım diye düşünüyorum.
 (EN)
 
 20
-00:01:24,160 --> 00:01:28,560
-(TR) bunuda doğum günümde önceki çalıştığım iş yerinde bir arkadaşım yapmıştı Cenk diye
+00:01:36,840 --> 00:01:40,920
+(TR) Ama çok da gerekli değil, başka birisi de alıp uğraşırsa uğraşsın.
 (EN)
 
 21
-00:01:31,180 --> 00:01:36,500
-(TR) böyle bir logo su var sadece alabilirsem belki bu logonun patentini alırım diye düşünüyorum
+00:01:40,920 --> 00:01:44,860
+(TR) Sonuçta bunun açık kaynak kodu bizde, yazıyoruz.
 (EN)
 
 22
-00:01:36,840 --> 00:01:40,920
-(TR) ama çokta gerekli değil başka biriside alıp uğraşsa uğraşırsa uğraşsın
+00:01:44,940 --> 00:01:48,260
+(TR) Logo tabii işin biraz daha eğlenceli tarafı, farklı tarafı.
 (EN)
 
 23
-00:01:40,920 --> 00:01:44,860
-(TR) sonuçta bunun açık kaynak kodu bizde yazıyoruz
+00:01:48,780 --> 00:01:54,240
+(TR) Aslında ileriye doğru daha gelecekte, daha farklı plan ve projelerim var.
 (EN)
 
 24
-00:01:44,940 --> 00:01:48,260
-(TR) logo tabi işin biraz daha eğlenceli tarafı farklı tarafı
+00:01:54,240 --> 00:01:57,040
+(TR) Normal sayfa üzerinden de girip incelerlerse,
 (EN)
 
 25
-00:01:48,780 --> 00:01:54,240
-(TR) aslında ileriye doğru daha gelecekte daha farklı plan ve projelerim var
+00:01:57,040 --> 00:01:59,540
+(TR) Flexible Grid Sytem üzerinde gelecek diye bir bölüm var.
 (EN)
 
 26
-00:01:54,240 --> 00:01:57,040
-(TR) normal sayfa üzerindede girip incelerlerse
+00:01:59,540 --> 00:02:03,520
+(TR) Ve orada geleceğe yönelik daha farklı planlarda düşünüyorum aslında.
 (EN)
 
 27
-00:01:57,040 --> 00:01:59,540
-(TR) Flexible Grid Sytem üzerinde gelecek diye bir bölüm var
+00:02:03,720 --> 00:02:12,260
+(TR) Burada şeye kadar gidiyor yani çalışma alanı ve bir kafe tarzı sadece yazılımcıların ve tasarımcıların geliştirme yaptığı,
 (EN)
 
 28
-00:01:59,540 --> 00:02:03,520
-(TR) ve orada geleceğe yönelik daha farklı planlarda düşünüyorum aslında
+00:02:12,420 --> 00:02:19,860
+(TR) kahve içtiği, kek yediği sıcak güzel bir çalışma ortamı bile düşünüyorum aslında
 (EN)
 
 29
-00:02:03,720 --> 00:02:12,260
-(TR) burada şeye kadar gidiyor yani çalışma alanı ve bir kafe tarzı sadece yazılımcıların ve tasarımcıların geliştirme yaptığı
+00:02:19,860 --> 00:02:24,480
+(TR) ama bu en uç noktasındaki kısım onun bir öncesinde
 (EN)
 
 30
-00:02:12,420 --> 00:02:19,860
-(TR) kahve içtiği kek yediği sıcak güzel bir çalışma ortamı bile düşünüyorum aslında
+00:02:24,480 --> 00:02:31,620
+(TR) biraz daha sevilip insanlar kullandıkları zaman işte tshirtler, bardaklar, stickerlar yapılabilir diye düşünüyorum.
 (EN)
 
 31
-00:02:19,860 --> 00:02:24,480
-(TR) ama bu en uç noktasındaki kısım onun bir öncesinde işte
+00:02:31,900 --> 00:02:36,460
+(TR) Onun öncesinde işte bir Front end Editor gibi bir şey de yapmayı planlıyorum.
 (EN)
 
 32
-00:02:24,480 --> 00:02:31,620
-(TR) biraz daha sevilip insanlar kullandıkları zaman işte tshirtler bardaklar ne bileyim stickerlar falan yapılabilir diye düşünüyorum
+00:02:36,680 --> 00:02:45,360
+(TR) Şuan da çalıştığım ekstra bir tane ayrı bir CSS Framework'ü var. Grid System'in dışında ayrı bir CSS Framework'ü de hazırlamaya çalışıyorum.
 (EN)
 
 33
-00:02:31,900 --> 00:02:36,460
-(TR) onun öncesinde işte bir front end editör gibi bir şeyde yapmayı planlıyorum
+00:02:45,360 --> 00:02:49,160
+(TR) Sürekli şekilde uğraşıyorum, geliştirmeye çalışıyorum bu şekilde.
 (EN)
 
 34
-00:02:36,680 --> 00:02:45,360
-(TR) şuanda çalıştığım ekstra bir tane ayrı bir css framework'ü var grid system'in dışında ayrı bir css framework'üde hazırlamaya çalışıyorum
+00:02:49,340 --> 00:02:50,740
+(TR) Katılımınızdan dolayı biz de teşekkür ederiz.
 (EN)
 
 35
-00:02:45,360 --> 00:02:49,160
-(TR) sürekli şekilde uğraşıyorum geliştirmeye çalışıyorum bu şekilde
-(EN)
-
-36
-00:02:49,340 --> 00:02:50,740
-(TR) katılımınızdan dolayı bizde teşekkür ederiz
-(EN)
-
-37
-00:02:50,940 --> 00:02:52,280
-(TR) ben teşekkür ederim sağolun
+00:02:50,740 --> 00:02:52,740
+(TR) Ben teşekkür ederim, sağolun.
 (EN)
