@@ -46,6 +46,6 @@ Keep in mind that these subtitles would make our channel accessible to people wi
  - [GitHub](srt/028-qjmBuDJ58fY.srt) - [YouTube](http://www.youtube.com/timedtext_video?v=qjmBuDJ58fY&ref=share) _028 Bahattin'in Trolleri - Kamera Arkası_
  - [GitHub](srt/029-8IEqmTv9WW8.srt) - [YouTube](http://www.youtube.com/timedtext_video?v=8IEqmTv9WW8&ref=share) _029 Bi Tık 1 Milyon Pixel - (Tunç Topçuoğlu)_
 
-## Katkıda bulunan kişiler (Contributors)
+## Katkıda bulunanlar (Contributors)
   - [Burak Yiğit Kaya](https://github.com/BYK)
   - [Bulut Yasin Özyurt](https://github.com/bulutyasin)
