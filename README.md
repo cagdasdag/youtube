@@ -1,12 +1,12 @@
 # [YouTube](https://youtube.com/DogukanGuvenNomak)
 
 ###Türkçe
-[Burak Yiğit Kaya](https://twitter.com/madbyk) sponsorluğunda tüm videoların altyazılarını İngilizce'ye çeviriyoruz. İsterseniz siz de destek olabilirsiniz. İngilizce'ye çevirme işlemi dışında Türkçe altyazıları çıkartma aşamasında da desteğe ihtiyacımız var.
+[Burak Yiğit Kaya](https://github.com/BYK) sponsorluğunda tüm videoların altyazılarını İngilizce'ye çeviriyoruz. İsterseniz siz de destek olabilirsiniz. İngilizce'ye çevirme işlemi dışında Türkçe altyazıları çıkartma aşamasında da desteğe ihtiyacımız var.
 
 Ayrıca oluşacak altyazılar sayesinde kanalımız **işitme engelli** arkadaşlar için de izlenebilir bir kaynak haline gelmiş olacaktır.
 
 ###English
-(We are translating all our subtitles into English, with [Burak Yiğit Kaya](https://twitter.com/madbyk) leading. Any contributions from you, the audience are welcome. We also need to create the original subtitles themselves from the videos so any help in that front is also appreciated.
+(We are translating all our subtitles into English, with [Burak Yiğit Kaya](https://github.com/BYK) leading. Any contributions from you, the audience are welcome. We also need to create the original subtitles themselves from the videos so any help in that front is also appreciated.
 
 Keep in mind that these subtitles would make our channel accessible to people with **hearing disabilities**.)
 
