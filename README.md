@@ -49,3 +49,4 @@ Keep in mind that these subtitles would make our channel accessible to people wi
 ## Katkıda bulunanlar (Contributors)
   - [Burak Yiğit Kaya](https://github.com/BYK)
   - [Bulut Yasin Özyurt](https://github.com/bulutyasin)
+  - [Hakan Aktaş](https://github.com/hkan)
