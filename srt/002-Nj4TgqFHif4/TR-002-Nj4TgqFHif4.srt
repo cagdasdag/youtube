@@ -1,0 +1,52 @@
+1
+00:00:00,300 --> 00:00:05,060
+Adım Doğukan; İzmir'de Front End Developer olarak Litum'da çalışıyorum.
+
+2
+00:00:05,440 --> 00:00:10,520
+Kişisel olarak geliştirdiğim bir projem var Flexible Grid System adında.
+
+3
+00:00:10,780 --> 00:00:15,920
+Bununla ilgili olarak açık kaynakta GitHub'dan erişebilirsiniz bu projeye.
+
+4
+00:00:16,560 --> 00:00:24,900
+Aslında Bootstrap'in sadece bir Grid System hali ve bunu kullanarak aslında insanlar çok hızlı şekilde web sitesi yapabiliyor.
+
+5
+00:00:25,340 --> 00:00:35,380
+Bu yaptıkları web sitesiyle hem mobil de hem tablet de hem de normal bilgisayarlarda ki tasarımı çok hızlı şekilde yönetebiliyorlar.
+
+6
+00:00:37,360 --> 00:00:42,040
+Bunun dışında ekstra daha geliştirdiğim bir Framework daha var.
+
+7
+00:00:42,040 --> 00:00:46,920
+Bu da yine daha hızlı tasarım yapmayı sağlayabilen bir Framework olacak.
+
+8
+00:00:48,620 --> 00:00:51,840
+Bunun dışında Flexible Grid System'i aktif olarak geliştirmeye devam ediyorum.
+
+9
+00:00:51,840 --> 00:00:56,560
+Yaklaşık 1000 Star'a ulaşmış durumda GitHub üzerinde.
+
+10
+00:00:57,360 --> 00:01:01,180
+Bunu mutlaka incelemeniz gerekiyor, mutlaka inceleyin!
+
+11
+00:01:01,440 --> 00:01:09,400
+İşinizi kolaylaştıracak ve bir şeyler yaparken size çok daha fazla zaman, hız ve esneklik kazandıracak.
+
+12
+00:01:10,660 --> 00:01:14,980
+flexible.gs adresinden inceleyebilirsiniz, takip edebilirsiniz.
+
+13
+00:01:15,320 --> 00:01:17,680
+Teşekkürler.
+

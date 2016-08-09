@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:02,080
+Hello Everyone, Welcome to my YouTube channel.
+
+2
+00:00:02,080 --> 00:00:04,900
+My name is Doğukan Güven Nomak. I develop Front End in İzmir.
+
+3
+00:00:04,900 --> 00:00:08,640
+I really like the Flexible Grid System, and the shooting character of GoPro.
+
+4
+00:00:08,640 --> 00:00:11,360
+With Front End Development Videos,
+
+5
+00:00:11,360 --> 00:00:14,560
+Personal Videos for my R&D work,
+
+6
+00:00:14,560 --> 00:00:22,460
+and Developer and Designer Talks, I prepare videos that will make us love our job more and increase our motivation.
+
+7
+00:00:22,460 --> 00:00:25,540
+You can reach My Story from the link at the video description.
+
+8
+00:00:25,540 --> 00:00:28,480
+Don’t forget to subscribe to my channel and select the notification checkbox.
+
+9
+00:00:28,480 --> 00:00:30,600
+See you soon, thank you.
+
